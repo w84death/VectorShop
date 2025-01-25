@@ -29,8 +29,8 @@ A pixel-perfect vector drawing tool for assembly-style game assets, featuring co
 Clone repository:
 
 ```
-git clone https://github.com/yourusername/vectorshop.git
-cd vectorshop
+git clone https://github.com/w84death/VectorShop.git
+cd VectorShop
 ```
 Install dependencies:
 
